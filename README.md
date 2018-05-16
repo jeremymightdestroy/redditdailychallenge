@@ -1,4 +1,6 @@
-this repo contains completed challenges from reddit/dailyprogrammer. The idea is to practice my problem solving, learn new things, and have something productive to do! \ (•◡•) / 
+this repo contains completed challenges from reddit/dailyprogrammer. The idea is to practice my problem solving, learn new things, and have something productive to do! 
+
+\ (•◡•) /\ (•◡•) /\ (•◡•) /\ (•◡•) /\ (•◡•) /\ (•◡•) /\ (•◡•) /\ (•◡•) /\ (•◡•) /\ (•◡•) /\ (•◡•) /\ (•◡•) /\ (•◡•) /\ (•◡•) /
 
 may 14
 unwrap some text
